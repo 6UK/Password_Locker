@@ -9,7 +9,7 @@ An application that allows users create a username and password
 
 ## Documentation
 
-The project works responsively and had no errors during testing, stores data and displays it with the help of short codes.
+The project works responsively and had no errors during testing, stores data and displays it with the help of short codes
 
 ---
 
