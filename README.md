@@ -25,8 +25,16 @@ The project works responsively and had no errors during testing, stores data and
 * open terminal from within the folder 
 * run the **python3.6 run.py** command in terminal
 
----
+<!-- BDD -->
+1. Allow us to Create new username 
 
+2. Save username.
+
+3. Display username.
+
+4. Delete username.
+
+5. Display username information.
 #### technologies used 
 * python (**ver 3.6**)
 
