@@ -3,7 +3,7 @@
 ### By **NJOROGE KARUGU!**, 
 #### Published date **22nd july 2019**
  ---
-## Description
+## Description.
 
 An application that allows users create a username and password
 
