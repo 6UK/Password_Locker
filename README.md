@@ -1,6 +1,6 @@
 # Password Locker
 
-### By **NJOROGE KARUGU**, 
+### By **NJOROGE KARUGU!**, 
 #### Published date **22nd july 2019**
  ---
 ## Description
