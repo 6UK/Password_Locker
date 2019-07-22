@@ -13,7 +13,7 @@ The project works responsively and had no errors during testing, stores data and
 
 ---
 
-#### This [link]() will take to my live site on Git Hub.
+#### This [link]() will take to my live site on Git Hub
 
 ---
 
