@@ -30,7 +30,7 @@ The project works responsively and had no errors during testing, stores data and
 #### technologies used 
 * python ( **ver 3.6** )
 
----
+
 
 ### License under [MIT]()
 
