@@ -17,6 +17,13 @@ The project works responsively and had no errors during testing, stores data and
 
 ---
 
+## Setup/Installation Requirements
+
+* open my [GitHub](account)
+* find my repo *Password Locker*
+* clone the repository
+* open terminal from within the folder 
+* run the **python3.6 run.py** command in terminal
 
 ---
 
