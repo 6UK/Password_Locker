@@ -9,7 +9,7 @@ class User:
         '''
         self.uname = username
         self.email = email
-        self.pword = password
+        self.password = password
         self.credentials = []
 
 
