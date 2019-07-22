@@ -32,3 +32,6 @@ The project works responsively and had no errors during testing, stores data and
 
 ---
 
+### License under [MIT]()
+
+Copyright (C) 2019 
