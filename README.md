@@ -1,29 +1,21 @@
-# Password Locker
+# Password Locker #
 
-### By **NJOROGE KARUGU!**, 
-#### Published date **22nd july 2019**
- ---
-## Description
+ ### Built By NJOROGE KARUGU ** (https://github.com/6UK/Password_Locker) ###
+ 
+## Description ####
+This application is runned by terminal and is allows the user to add an account on any platform with your email,password and username.
+## Documentation ###
 
-An application that allows users create a username and password
+The project works responsively and had no errors during testing, stores data and has short codes to help the user navigate easily.
 
-## Documentation
-
-The project works responsively and had no errors during testing, stores data and displays it with the help of short codes
-
----
-
-#### This [link]() will take to my live site on Git Hub
-
----
-
-## Setup/Installation Requirements.
+### Setup/Installation Requirements ##
 
 * open my [GitHub](https://github.com/6UK/Password_Locker)
 * find my repo *Password Locker.*
 * clone the repository
-* open terminal from within the folder 
-* run the **python3.6 run.py** command in terminal
+* open terminal 
+* git clone with this {link}(https://github.com/6UK/Password_Locker.git)
+* run the **python3.6 run.py** command in terminal to run the aplliacation
 
 <!-- BDD -->
 1. Allow us to Create new username 
@@ -34,8 +26,10 @@ The project works responsively and had no errors during testing, stores data and
 
 4. Delete username.
 
+
+
 5. Display username information.
-#### technologies used 
+#### TECHNOLOGIES USED ####### 
 * python (**ver 3.6**)
 
 
